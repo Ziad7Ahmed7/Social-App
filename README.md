@@ -33,7 +33,7 @@ A scalable RESTful API built with TypeScript, Express.js, and MongoDB, providing
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone <(https://github.com/Ziad7Ahmed7/Social-App)>
    cd TS APP
    ```
 
@@ -48,7 +48,7 @@ A scalable RESTful API built with TypeScript, Express.js, and MongoDB, providing
 
 4. **Run the server:**
    ```bash
-   npm run dev
+   npm run start:dev
    ```
    The server will start on the port specified in your `.env` file (default: 3000).
 
